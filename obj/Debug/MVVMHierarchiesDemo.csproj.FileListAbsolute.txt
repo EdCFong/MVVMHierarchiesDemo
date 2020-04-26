@@ -1,0 +1,24 @@
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\MainWindow.g.cs
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\Views\CustomerListView.g.cs
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\Views\OrderView.g.cs
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\App.g.cs
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo_MarkupCompile.cache
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo_MarkupCompile.lref
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\Views\CustomerListView.baml
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\Views\OrderView.baml
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo.exe
+C:\Users\eduar\source\repos\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo.pdb
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\Views\CustomerListView.g.cs
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\Views\OrderView.g.cs
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\App.g.cs
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo_MarkupCompile.cache
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo_MarkupCompile.lref
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\Views\CustomerListView.baml
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\Views\OrderView.baml
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo.exe
+C:\Users\Eduardo\Documents\Projects\WPF projects\MVVMHierarchiesDemo\obj\Debug\MVVMHierarchiesDemo.pdb
